@@ -1,6 +1,6 @@
 {
   "name": "nodeopensmartdriver",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Node.js module for controlling Open Smart RGB LED strips",
   "main": "NodeOpenSmartDriver.js",
   "repository": {
