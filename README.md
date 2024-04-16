@@ -6,7 +6,7 @@ This Node.js module provides a convenient interface for controlling the OpenSmar
 
 To use this module in your Node.js project, you can install it via npm:
 ```
-npm install open-smart-driver
+npm i nodeopensmartdriver
 ```
 ## Usage:
 
