@@ -2,6 +2,8 @@
 
 This Node.js module provides a convenient interface for controlling the OpenSmartDriver LED controller using Raspberry Pi GPIO pins.
 
+![Alt text](https://github.com/blindxfish/NodeOpenSmartDriver/blob/master/OS-P9813LEDDRIVERSCREW_1-600x315w.jpg)
+
 ## Installation:
 
 To use this module in your Node.js project, you can install it via npm:
@@ -14,7 +16,7 @@ First, import the NodeOpenSmartDriver class from the module:
 
 const NodeOpenSmartDriver = require('NodeOpenSmartDriver');
 
-Then, create an instance of the OpenSmartDriver class, specifying the clock pin and data pin for your LED setup:
+Then, create an instance of the NodeOpenSmartDriver class, specifying the clock pin and data pin for your LED setup:
 
 const driver = new NodeOpenSmartDriver(clockPin, dataPin);
 
@@ -31,7 +33,7 @@ Example usage:
 ```
 driver.setColor(255, 0, 0); // Sets the color to red
 ```
-##Example:
+## Example:
 
 Here's a simple example of how to use the OpenSmartDriver module to control an LED strip:
 ```
