@@ -1,13 +1,19 @@
 {
   "name": "nodeopensmartdriver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js module for controlling Open Smart RGB LED strips",
   "main": "NodeOpenSmartDriver.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/opensmartdriver.git"
   },
-  "keywords": ["led", "rgb", "driver", "gpio", "raspberry pi"],
+  "keywords": [
+    "led",
+    "rgb",
+    "driver",
+    "gpio",
+    "raspberry pi"
+  ],
   "author": "Nikica Varadi / BlindxFish",
   "license": "MIT",
   "dependencies": {
