@@ -4,6 +4,9 @@ This Node.js module provides a convenient interface for controlling the OpenSmar
 
 ![Alt text](https://github.com/blindxfish/NodeOpenSmartDriver/blob/master/OS-P9813LEDDRIVERSCREW_1-600x315w.jpg)
 
+The C++ version i have based my code on: 
+https://github.com/MrKrabat/LED-Strip-Driver-Module
+
 ## Installation:
 
 To use this module in your Node.js project, you can install it via npm:
