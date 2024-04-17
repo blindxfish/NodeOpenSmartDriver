@@ -5,7 +5,7 @@
   "main": "NodeOpenSmartDriver.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/opensmartdriver.git"
+    "url": "https://https://github.com/blindxfish/NodeOpenSmartDriver"
   },
   "keywords": [
     "led",
